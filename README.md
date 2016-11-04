@@ -2,4 +2,4 @@
 
 ![Header](assets/laptop.jpg)
 
-Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Phase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Phase 0 juga menjadi penentu apakah kamu dapat maju ke Phase 1. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
+Selamat datang di laman Phase 0 Hacktiv8! Phase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Phase 0 juga menjadi penentu bagi peserta supaya dapat maju ke Phase 1. Saya Bambang Handoko, salah satu peserta Bootcamp Hacktiv8. Ini merupakan tugas untuk mempelajari dan membuat markdown dengan baik. Mohon kritik dan sarannya. Terima kasih.
